@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 에디터/툴
+.claude/
+.vscode/
+.idea/
+
+# 로그
+*.log
